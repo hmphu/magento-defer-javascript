@@ -1,2 +1,2 @@
-create extension fo defer javascript in magento
+create extension for defer javascript in magento
 
